@@ -25,3 +25,12 @@ body {
   margin-bottom: 10px;
   border-radius: 6px; // optional for rounded corners
 }
+
+.person-block {
+  margin-bottom: 1.5em;   /* spacing between persons */
+}
+
+.person-block p {
+  line-height: 1.3;       /* tighter lines inside each person block */
+  margin: 0;              /* remove default paragraph margin */
+}

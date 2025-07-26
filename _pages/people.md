@@ -54,4 +54,3 @@ permalink: /people/
   <img src="../assets/images/jennifer_photo.jpg" alt="Jennifer Kosty" class="profile-img">
 </div>
 
----

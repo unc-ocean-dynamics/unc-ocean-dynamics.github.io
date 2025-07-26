@@ -5,10 +5,10 @@ header:
 permalink: /research/
 ---
 
-My research is centered on polar and coastal ocean dynamics, with a recent focus on ice-ocean interactions from the mesoscale to microscale near and around ice shelf cavities and fjords in Greenland and Antarctica as well as coastal dynamics along the Carolina shelf. Please also see the Movies page for some visualizations of recent work.
+Our research focuses on polar and coastal ocean dynamics, emphasizing ice-ocean interactions across scales—from mesoscale to microscale—near ice shelf cavities and fjords in Greenland and Antarctica, as well as coastal processes along the Carolina shelf. For visual insights, please visit the Movies page to see recent work in action.
 
 
-## Completed Work
+## Recent Work
 
 
 ### (6) Roles of Geometry and Standing Eddies in Mediating Fjord-Shelf Exchange
@@ -50,7 +50,7 @@ This work was highlighted on the UCLA physical sciences division website: www.ph
 
 There are vast cavities forming beneath some of the fastest melting ice shelves in West Antarctica and northern Greenland. One notable example is the Pine Island Glacier in West Antarctica. The Pine Island Glacier has a tall bathymetric sill or “bump” in the seafloor that holds back relatively warm (by a few degrees) water from the open ocean. This work seeks to understand how the height of the bump holds back open ocean, warm water from melting the glaciers in these regions.
 
-## Current Work
+## Ongoing Work
 
 ### (7) Ice-Ocean Boundary Layers
 

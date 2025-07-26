@@ -2,10 +2,10 @@
 main:
   - title: "People"
     url: /people/
-  - title: "Movies"
-    url: /movies/
   - title: "Research"
     url: /research/
+  - title: "Movies"
+    url: /movies/
   - title: "Publications"
     url: /publications/
   - title: "Outreach"

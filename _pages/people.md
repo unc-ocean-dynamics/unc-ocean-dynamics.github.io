@@ -23,7 +23,6 @@ permalink: /people/
 <h2>Current Group Members</h2>
 
 <div class="person-block">
-#  <img src="../assets/images/Zhao_profile2.png" alt="Victor Nguyen" class="profile-img">
   <h3>Victor Hieu Nguyen</h3>
   <p><strong>Undergraduate Researcher, UNC Chapel Hill (June 2025 – present)</strong></p>
   <p><strong>Project:</strong> <em>Coastal Shoal Dynamics</em></p>

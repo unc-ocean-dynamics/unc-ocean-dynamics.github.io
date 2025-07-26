@@ -26,14 +26,14 @@ permalink: /people/
   <h3>Victor Hieu Nguyen</h3>
   <p><strong>Undergraduate Researcher, UNC Chapel Hill (June 2025 – present)</strong></p>
   <p><strong>Project:</strong> <em>Coastal Shoal Dynamics</em></p>
-  <img src="../assets/images/victor_photo.jpg" alt="Victor Nguyen" class="profile-img">
+  <img src="../assets/images/Zhao_profile2.png" alt="Victor Nguyen" class="profile-img">
 </div>
 
 <div class="person-block">
   <h3>Sarah Villhauer</h3>
   <p><strong>Undergraduate Researcher, UCLA & REU student at Oregon State University (June 2022 – present)</strong></p>
   <p><strong>Project:</strong> <em>Dynamics of Antarctica’s Melting Basal Channels</em></p>
-  <img src="../assets/images/sarah_photo.jpg" alt="Sarah Villhauer" class="profile-img">
+  <img src="../assets/images/Zhao_profile2.png" alt="Sarah Villhauer" class="profile-img">
 </div>
 
 <hr>
@@ -46,7 +46,7 @@ permalink: /people/
   <p><strong>Next Position:</strong> PhD Student, Princeton University</p>
   <p><strong>Project:</strong> <em>Sea Ice Lead-generated Eddy Dynamics</em></p>
   <p>Publication: <a href="https://journals.ametsoc.org/view/journals/phoc/51/10/JPO-D-20-0169.1.xml">Cohanim et al. 2021</a></p>
-  <img src="../assets/images/kaylie_photo.jpg" alt="Kaylie Cohanim" class="profile-img">
+  <img src="../assets/images/Zhao_profile2.png" alt="Kaylie Cohanim" class="profile-img">
 </div>
 
 <div class="person-block">
@@ -55,6 +55,6 @@ permalink: /people/
   <p><strong>Next Position:</strong> PhD Student, Yale University</p>
   <p><strong>Project:</strong> <em>Seal-based observations of Antarctic sub-sea ice eddies</em></p>
   <p>Publication: <a href="https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JC021781">Kosty et al. 2025</a></p>
-  <img src="../assets/images/jennifer_photo.jpg" alt="Jennifer Kosty" class="profile-img">
+  <img src="../assets/images/Zhao_profile2.png" alt="Jennifer Kosty" class="profile-img">
 </div>
 

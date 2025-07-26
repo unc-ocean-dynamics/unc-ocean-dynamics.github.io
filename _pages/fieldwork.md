@@ -8,6 +8,8 @@ header:
 
 Photos from recent fieldwork are included below.
 
+---------------------
+
 ### LeConte Glacier, Alaska (June 2022)
 
 Field work within an Alaskan fjord measuring the ice-ocean boundary layer near icebergs.

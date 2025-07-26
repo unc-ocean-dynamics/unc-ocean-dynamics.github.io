@@ -10,7 +10,7 @@ permalink: /people/
 ### Ken Zhao
 **Assistant Professor, University of North Carolina at Chapel Hill**  
 
-![Ken Zhao](../assets/images/Zhao_profile2.png){: style="width:150px;" }
+<img src="../assets/images/Zhao_profile2.png" alt="Ken Zhao" style="width:120px;">
 
 Ken leads the Carolina Dynamical Oceanography Group. His research focuses on the physical dynamics of polar oceans, coastal circulation, and geophysical fluid dynamics.
 

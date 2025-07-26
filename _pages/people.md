@@ -40,18 +40,15 @@ permalink: /people/
 <h2>Former Group Members</h2>
 
 <div class="person-block">
-  <h3>Kaylie Cohanim</h3>
-  <p><strong>Undergraduate Researcher, UCLA (Apr 2018 – Jul 2020)</strong></p>
-  <p><strong>Next Position:</strong> PhD Student, Princeton University</p>
-  <p><strong>Project:</strong> <em>Sea Ice Lead-generated Eddy Dynamics</em></p>
-  <p>Publication: <a href="https://journals.ametsoc.org/view/journals/phoc/51/10/JPO-D-20-0169.1.xml">Cohanim et al. 2021</a></p>
+  <p><strong>Kaylie Cohanim</strong>, Undergraduate Researcher, UCLA (Apr 2018 – Jul 2020)<br>
+  Project: <em>Sea Ice Lead-generated Eddy Dynamics</em>; Publication: <a href="https://journals.ametsoc.org/view/journals/phoc/51/10/JPO-D-20-0169.1.xml">Cohanim et al. 2021</a><br>
+  Next Position: PhD Student, Princeton University
+  </p>
 </div>
 
 <div class="person-block">
-  <h3>Jennifer Kosty</h3>
-  <p><strong>Undergraduate Researcher, UCLA (Aug 2020 – Aug 2023)</strong></p>
-  <p><strong>Next Position:</strong> PhD Student, Yale University</p>
-  <p><strong>Project:</strong> <em>Seal-based observations of Antarctic sub-sea ice eddies</em></p>
-  <p>Publication: <a href="https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JC021781">Kosty et al. 2025</a></p>
+  <p><strong>Jennifer Kosty</strong>, Undergraduate Researcher, UCLA (Aug 2020 – Aug 2023)<br>
+  Project: <em>Seal-based observations of Antarctic sub-sea ice eddies</em>; Publication: <a href="https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JC021781">Kosty et al. 2025</a><br>
+  Next Position: PhD Student, Yale University
+  </p>
 </div>
-

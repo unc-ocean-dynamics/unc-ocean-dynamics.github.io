@@ -5,7 +5,7 @@ header:
 permalink: /research/
 ---
 
-Our research focuses on polar and coastal ocean dynamics, emphasizing ice-ocean interactions across scales—from mesoscale to microscale—near ice shelf cavities and fjords in Greenland and Antarctica, as well as coastal processes along the Carolina shelf. For visual insights, please visit the Movies page to see recent work in action.
+Our research focuses on polar and coastal ocean dynamics, emphasizing ice-ocean interactions across scales—from mesoscale to microscale—near ice shelf cavities and fjords in Greenland and Antarctica, as well as coastal processes along the Carolina shelf. Please visit the Movies page to see recent work in action.
 
 
 ## Recent Work

@@ -18,6 +18,8 @@ permalink: /people/
   </p>
 </div>
 
+
+
 <h2>Current Group Members</h2>
 
 <div class="person-block">

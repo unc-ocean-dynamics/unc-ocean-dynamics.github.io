@@ -10,24 +10,21 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+# Theme Settings
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ken Zhao"
+title                    : "Carolina Dynamical Oceanography Group"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : 
-description              : "Polar Oceanography"
-url                      : #"https://kenxzhao.github.io"
-baseurl                  : # Subpath, if there is one.
-repository               : "tomchor/kenxzhao.github.io"
-teaser                   : #
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Home" # overrides the website title displayed in the masthead, use " " for no title
-#breadcrumbs             : false # true, false (default)
+subtitle                 : "Ocean and climate research at UNC-Chapel Hill"
+name                     : "Carolina Dynamical Oceanography Group"
+description              : "We study polar and coastal ocean dynamics, with a focus on freshwater transport, ice-ocean interaction, and climate variability."
+url                      : "https://unc-ocean-dynamics.github.io"
+baseurl                  : ""
+repository               : "unc-ocean-dynamics/unc-ocean-dynamics.github.io"
+masthead_title           : "Home"
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"

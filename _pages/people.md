@@ -1,0 +1,52 @@
+---
+title: People
+header:
+  image: /assets/images/Banner.png
+permalink: /people/
+---
+
+## Principal Investigator
+
+### Ken Zhao
+**Assistant Professor, University of North Carolina at Chapel Hill**  
+_Physical Oceanographer | Ice-Ocean Interactions | Numerical + Lab Experiments_
+
+![Ken Zhao](../assets/images/kenzhao_photo.jpg) <!-- Replace with actual image file -->
+
+Ken leads the Carolina Dynamical Oceanography Group. His research focuses on the physical dynamics of polar oceans, including ice-ocean boundary layers, coastal circulation, and freshwater transport.
+
+---
+
+## Current Group Members
+
+### Victor Hieu Nguyen  
+**Undergraduate Researcher, UNC Chapel Hill (June 2025 – present)**  
+**Project**: *Coastal Shoal Dynamics*  
+![Victor Nguyen](../assets/images/victor_photo.jpg) <!-- Placeholder -->
+
+---
+
+### Sarah Villhauer  
+**Undergraduate Researcher, UCLA & REU student at Oregon State University (June 2022 – present)**  
+**Project**: *Dynamics of Antarctica’s Melting Basal Channels*  
+![Sarah Villhauer](../assets/images/sarah_photo.jpg) <!-- Placeholder -->
+
+---
+
+## Former Group Members
+
+### Kaylie Cohanim  
+**Undergraduate Researcher, UCLA (Apr 2018 – Jul 2020)**  
+**Next Position**: PhD Student, Princeton University  
+**Project**: *Sea Ice Lead-generated Eddy Dynamics*  
+Publication: [Cohanim et al. 2021](https://journals.ametsoc.org/view/journals/phoc/51/10/JPO-D-20-0169.1.xml)  
+![Kaylie Cohanim](../assets/images/kaylie_photo.jpg) <!-- Placeholder -->
+
+---
+
+### Jennifer Kosty  
+**Undergraduate Researcher, UCLA (Aug 2020 – Aug 2023)**  
+**Next Position**: PhD Student, Yale University  
+![Jennifer Kosty](../assets/images/jennifer_photo.jpg) <!-- Placeholder -->
+
+---

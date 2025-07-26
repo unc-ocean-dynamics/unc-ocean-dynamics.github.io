@@ -9,11 +9,10 @@ permalink: /people/
 
 ### Ken Zhao
 **Assistant Professor, University of North Carolina at Chapel Hill**  
-_Physical Oceanographer | Ice-Ocean Interactions | Numerical + Lab Experiments_
 
-![Ken Zhao](../assets/images/kenzhao_photo.jpg) <!-- Replace with actual image file -->
+![Ken Zhao](../assets/images/Zhao_profile2.png) <!-- Replace with actual image file -->
 
-Ken leads the Carolina Dynamical Oceanography Group. His research focuses on the physical dynamics of polar oceans, including ice-ocean boundary layers, coastal circulation, and freshwater transport.
+Ken leads the Carolina Dynamical Oceanography Group. His research focuses on the physical dynamics of polar oceans, coastal circulation, and geophysical fluid dynamics.
 
 ---
 
@@ -47,6 +46,8 @@ Publication: [Cohanim et al. 2021](https://journals.ametsoc.org/view/journals/ph
 ### Jennifer Kosty  
 **Undergraduate Researcher, UCLA (Aug 2020 – Aug 2023)**  
 **Next Position**: PhD Student, Yale University  
+**Project**: *Seal-based observations of Antarctic sub-sea ice eddies*  
+Publication: [Kosty et al. 2025](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JC021781)  
 ![Jennifer Kosty](../assets/images/jennifer_photo.jpg) <!-- Placeholder -->
 
 ---

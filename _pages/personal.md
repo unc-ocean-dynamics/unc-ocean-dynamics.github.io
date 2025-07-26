@@ -1,11 +1,10 @@
 ---
-title: Outreach
+title: Outreach and Engagement
 header:
   image: /assets/images/Banner.png
 permalink: /outreach/
 ---
 
-## Outreach and Engagement
 
 Members of the Carolina Dynamical Oceanography Group are committed to engaging with the broader community through science communication, mentoring, and education.
 

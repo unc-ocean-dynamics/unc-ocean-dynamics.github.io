@@ -18,14 +18,12 @@ minimal_mistakes_skin    : "dark"
 locale                   : "en-US"
 title                    : "Carolina Dynamical Oceanography Group"
 title_separator          : "-"
-subtitle                 : "Carolina Dynamical Oceanography Group"  # ← updated
 name                     : "Carolina Dynamical Oceanography Group"
 description              : "We study polar and coastal oceanography across scales."  # ← updated
 url                      : "https://unc-ocean-dynamics.github.io"
 baseurl                  : ""
 repository               : "unc-ocean-dynamics/unc-ocean-dynamics.github.io"
 masthead_title           : "Home"
-logo                     : /assets/images/CDOG2.png
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"

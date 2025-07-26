@@ -32,7 +32,7 @@ Glacial fjords are long, narrow, and deep inlets that connect glaciers to the op
 
 ![JPO paper](/assets/images/antarctic_leads.png)
 
-I co-supervised Kaylie Cohanim, who was an undergraduate researcher at UCLA. Kaylie used an idealized MITgcm configuration to study submesoscale eddy generation beneath sea ice leads. 
+Kaylie Cohanim, who was an undergraduate researcher at UCLA, used an idealized MITgcm simulation to study submesoscale eddy generation beneath sea ice leads. 
 
 ### Geometric Constraints on Glacial Fjord-Shelf Exchange
 
@@ -51,8 +51,6 @@ There are vast cavities forming beneath some of the fastest melting ice shelves 
 ### Submesoscale Eddies beneath Antarctic sea ice
 
 Jennifer Kosty, who was an undergraduate researcher at UCLA used seal data to find and analyze submesoscale eddies below sea ice around Antarctica.
-
-## Ongoing Work
 
 ### Ice-Ocean Boundary Layers
 

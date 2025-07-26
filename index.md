@@ -9,16 +9,16 @@ author_profile: true
 
 Welcome to the **Carolina Dynamical Oceanography Group** at the University of North Carolina at Chapel Hill.
 
-We study the physics of ocean circulation, especially in polar and coastal regions where the ocean interacts with ice and freshwater. Our research integrates **theory**, **numerical modeling**, and **observations** to investigate the geophysical dynamics of our evolving polar and coastal oceans.
+We study the physics of ocean circulation, especially in polar and coastal regions where the ocean interacts with ice and freshwater. Our approach integrates **theory**, **numerical modeling**, and **observations** across spatial scales to investigate the dynamics that underpins these complex systems.
 
-We actively collaborate with national and international and groups and use tools ranging from **high-resolution models** to **in situ** and **remote sensing data**.
+We actively collaborate with group nationally and internationally and use tools spanning **idealized and realistic models** to **in situ** and **remote sensing data**.
 
 ---
 
 ### About the Group
 
-The group is led by [Ken Zhao](/people/) (Assistant Professor, UNC-CH), a physical oceanographer with expertise in polar and coastal dynamics.  
-We welcome collaborations and are actively building a team of postdocs and graduate students.
+The group is led by [Ken Zhao](/people/) (Assistant Professor, UNC Chapel Hill), a physical oceanographer with expertise in polar and coastal dynamics.  
+We welcome collaborations and are actively building a team of postdocs, graduate students, and undergraduates.
 
 ---
 

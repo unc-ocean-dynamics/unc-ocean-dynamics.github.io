@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "dark"
 locale                   : "en-US"
 title                    : "Carolina Dynamical Oceanography Group"
 title_separator          : "-"
-subtitle                 : "Ocean and climate research at UNC-Chapel Hill"
+subtitle                 : "Carolina Dynamical Oceanography Group"  # ← updated
 name                     : "Carolina Dynamical Oceanography Group"
-description              : "We study polar and coastal ocean dynamics, with a focus on freshwater transport, ice-ocean interaction, and climate variability."
+description              : "We study polar and coastal oceanography across scales."  # ← updated
 url                      : "https://unc-ocean-dynamics.github.io"
 baseurl                  : ""
 repository               : "unc-ocean-dynamics/unc-ocean-dynamics.github.io"

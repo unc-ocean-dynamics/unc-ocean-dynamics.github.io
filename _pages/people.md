@@ -25,13 +25,13 @@ permalink: /people/
 <div class="person-block">
   <h3>Victor Hieu Nguyen</h3>
   <p><strong>Undergraduate Researcher, UNC Chapel Hill (June 2025 – present)</strong></p>
-  <p><strong>Project:</strong> <em>Dynamics of Carolina's Shoals</em></p>
+  <p><strong>Project:</strong> <em>Dynamics of Carolina's shoals</em></p>
 </div>
 
 <div class="person-block">
   <h3>Sarah Villhauer</h3>
   <p><strong>Undergraduate Researcher, UCLA & REU student at Oregon State University (June 2022 – present)</strong></p>
-  <p><strong>Project:</strong> <em>Dynamics of Antarctica’s Melting Basal Channels</em></p>
+  <p><strong>Project:</strong> <em>Dynamics of Antarctica’s melting basal channels</em></p>
 </div>
 
 <hr>
@@ -40,7 +40,7 @@ permalink: /people/
 
 <div class="person-block">
   <p><strong>Kaylie Cohanim</strong>, Undergraduate Researcher, UCLA (Apr 2018 – Jul 2020)<br>
-  Project: <em>Sea Ice Lead-generated Eddy Dynamics</em>; Publication: <a href="https://journals.ametsoc.org/view/journals/phoc/51/10/JPO-D-20-0169.1.xml">Cohanim et al. 2021</a><br>
+  Project: <em>Dynamics of sea ice lead-generated eddies</em>; Publication: <a href="https://journals.ametsoc.org/view/journals/phoc/51/10/JPO-D-20-0169.1.xml">Cohanim et al. 2021</a><br>
   Next Position: PhD Student, Princeton University
   </p>
 </div>

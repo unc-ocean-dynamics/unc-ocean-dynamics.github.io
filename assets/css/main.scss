@@ -17,3 +17,11 @@ body {
   width: 90px !important;
   height: auto !important;
 }
+
+.profile-img {
+  float: left;
+  width: 150px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  border-radius: 6px; // optional for rounded corners
+}

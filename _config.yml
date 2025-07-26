@@ -97,8 +97,8 @@ analytics:
 
 # Author information
 author:
-  name             : "Ken X. Zhao"
-  avatar           : "assets/images/Zhao_profile2.png"
+#  name             : "Ken X. Zhao"
+  avatar           : "assets/images/CDOG2.png"
   bio              : "<br>"
   location         : "Chapel Hill, NC"
   email            : #"kenzhao@unc.edu"

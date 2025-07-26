@@ -5,7 +5,7 @@ header:
 permalink: /contact/
 ---
 
-Prospective students, postdocs, and collaborators, please reach out to me at: kenzhao[at]unc[dot]edu
+Prospective students, postdocs, and collaborators, please reach out at: kenzhao[at]unc[dot]edu
 
 Please see my [Google Scholar
 page](https://scholar.google.com/citations?user=ntxj5R4AAAAJ&hl=en), 

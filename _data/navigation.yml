@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Movies"
+    url: /movies/
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Outreach"
+    url: /outreach/
+  - title: "Field Work"
+    url: /fieldwork/

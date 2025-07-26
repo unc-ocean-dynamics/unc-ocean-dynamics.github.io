@@ -6,3 +6,9 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// --- Your custom styles here ---
+
+body {
+  font-size: 14px;  // Adjust this value as you like
+}

@@ -13,7 +13,7 @@ Welcome to the **Carolina Dynamical Oceanography Group** at the University of No
 
 We study the physics of ocean circulation, especially in polar and coastal regions where the ocean interacts with ice and freshwater. Our approach integrates **theory**, **numerical modeling**, **laboratory experiments**, and **observations** across spatial scales to investigate the dynamics that underpin these complex systems.
 
-We actively collaborate with group nationally and internationally and use tools spanning **idealized and realistic models** to **laboratory wave tanks** to **in situ** and **remote sensing data**.
+We actively collaborate with other groups nationally and internationally and use tools spanning **idealized and realistic models** to **laboratory wave tanks** to **in situ** and **remote sensing data**.
 
 ---
 

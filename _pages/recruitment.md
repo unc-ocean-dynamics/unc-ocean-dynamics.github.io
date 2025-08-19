@@ -48,7 +48,7 @@ image: /assets/images/Banner.png
     </p>
   </div>
 
-  <h2>Other Opportunities</h2>
+  <h2>Undergraduate Research Opportunities</h2>
   <div class="ad-block">
     <p><strong>Coastal and Polar Oceanography</strong> – We welcome motivated students with backgrounds in applied sciences, physics, math, computer science, or related fields. Projects may involve data-driven ocean physics, idealized modeling, or laboratory ice-ocean experiments in UNC’s Joint Fluids Lab.</p>
     <p>If you’re curious about the rapidly changing polar and coastal oceans, send us your CV and join our team!</p>

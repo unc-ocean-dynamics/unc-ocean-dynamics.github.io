@@ -30,7 +30,7 @@ image: /assets/images/Banner.png
     <p><strong>Requirements:</strong></p>
     <ul>
       <li>Ph.D. in Oceanography, Fluid Dynamics, Mechanical Engineering, Applied Math/Physics, or related field</li>
-      <li>Experience in geophysical fluid dynamics, turbulence, or mechanics</li>
+      <li>Relevant experience in geophysical fluid dynamics, turbulence, or mechanics</li>
       <li>Background in LES/DNS/CFD modeling or lab experiments in stratified/rotating fluids</li>
     </ul>
     <p><strong>Preferred:</strong> Familiarity with ice-ocean interactions, HPC/GPU models, or advanced lab diagnostics (PIV, LIF).</p>

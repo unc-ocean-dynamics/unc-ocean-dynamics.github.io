@@ -5,39 +5,9 @@ permalink: /recruitment/
 image: /assets/images/Banner.png
 ---
 
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    max-width: 900px;
-    margin: auto;
-    padding: 20px;
-    color: #333;
-  }
-  h1, h2 {
-    color: #003366;
-  }
-  .ad-block {
-    background: #f7f9fc;
-    padding: 15px;
-    margin-bottom: 2em;
-    border-radius: 6px;
-    border: 1px solid #ddd;
-  }
-  a {
-    color: #004488;
-    text-decoration: none;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
-  hr {
-    margin: 2em 0;
-  }
-</style>
 
-  <h1>Carolina Dynamical Oceanography Lab</h1>
-  <p><strong>University of North Carolina at Chapel Hill</strong></p>
+  <h1>The Carolina Dynamical Oceanography Lab at UNC Chapel Hill is recruiting!</h1>
+
 
   <h2>Graduate Student Opportunities</h2>
   <div class="ad-block">

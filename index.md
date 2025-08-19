@@ -27,7 +27,7 @@ We welcome collaborations and are actively building a team of postdocs, graduate
 ### Join Us
 
 We will be recruiting **Postdocs, graduate, and undergraduate students to begin in 2026**.  
-If you are interested in ocean physics, polar regions, or geophysical fluid dynamics, [get in touch](mailto:kenzhao@unc.edu)!
+If you are interested in ocean physics, polar regions, or geophysical fluid dynamics visit our [Recruitment page](/recruitment/) and [get in touch](mailto:kenzhao@unc.edu). 
 
 ---
 

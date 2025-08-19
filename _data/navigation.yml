@@ -2,6 +2,8 @@
 main:
   - title: "People"
     url: /people/
+  - title: "Recruitment"
+    url: /recruitment/    
   - title: "Research"
     url: /research/
   - title: "Movies"

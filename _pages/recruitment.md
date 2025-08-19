@@ -1,10 +1,9 @@
 ---
 title: "Carolina Dynamical Oceanography Lab Recruitment"
-header: Recruitment
+header:
+  image: /assets/images/Banner.png
 permalink: /recruitment/
-image: /assets/images/Banner.png
 ---
-
 
   <h1>The Carolina Dynamical Oceanography Lab at UNC Chapel Hill is recruiting!</h1>
 

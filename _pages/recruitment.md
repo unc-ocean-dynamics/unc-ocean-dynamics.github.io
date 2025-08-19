@@ -33,7 +33,7 @@ image: /assets/images/Banner.png
       <li>Relevant experience in geophysical fluid dynamics, turbulence, or mechanics</li>
       <li>Background in LES/DNS/CFD modeling or lab experiments in stratified/rotating fluids</li>
     </ul>
-    <p><strong>Preferred:</strong> Familiarity with ice-ocean interactions, HPC/GPU models, or advanced lab diagnostics (PIV, LIF).</p>
+    <p><strong>Preferred:</strong> Familiarity with ice-ocean interactions, HPC/GPU models, or laboratory methods (PIV, LIF).</p>
     <p><strong>Salary:</strong> Minimum $65,000/year, commensurate with qualifications<br>
        <strong>Start Date:</strong> As early as Jan 2026 (flexible)<br>
        <strong>Appointment Length:</strong> 2 years<br>

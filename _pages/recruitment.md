@@ -1,12 +1,9 @@
 ---
-title: Recruitment
+title: The Carolina Dynamical Oceanography Lab at UNC Chapel Hill is recruiting!
 header:
   image: /assets/images/Banner.png
 permalink: /recruitment/
 ---
-
-  <h1>The Carolina Dynamical Oceanography Lab at UNC Chapel Hill is recruiting!</h1>
-
 
   <h2>Graduate Student Opportunities</h2>
   <div class="ad-block">

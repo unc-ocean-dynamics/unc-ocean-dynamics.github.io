@@ -54,5 +54,3 @@ image: /assets/images/Banner.png
     <p>If you’re curious about the rapidly changing polar and coastal oceans, send us your CV and join our team!</p>
   </div>
 
-</body>
-</html>

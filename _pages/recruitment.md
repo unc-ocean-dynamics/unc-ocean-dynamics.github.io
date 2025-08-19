@@ -1,5 +1,5 @@
 ---
-title: "Carolina Dynamical Oceanography Lab Recruitment"
+title: Recruitment
 header:
   image: /assets/images/Banner.png
 permalink: /recruitment/

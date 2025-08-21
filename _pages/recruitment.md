@@ -34,14 +34,15 @@ permalink: /recruitment/
        <strong>Start Date:</strong> As early as Jan 2026 (flexible)<br>
        <strong>Appointment Length:</strong> 2 years<br>
        <strong>Application Deadline:</strong> Oct 31, 2025 (for full consideration)</p>
-       <p><strong>Application Instructions:</strong> Please apply at 
+<p><strong>Application Instructions:</strong> Please apply at 
   <a href="https://unc.peopleadmin.com/postings/305729" target="_blank">https://unc.peopleadmin.com/postings/305729</a>. 
   All application materials must be submitted through the online portal and should include:
-  <ol>
-    <li>Cover letter (research interests, experience, career goals)</li>
-    <li>Curriculum vitae (with publications)</li>
-    <li>Names and contact information of three references</li>
-  </ol>
+</p>
+<ol>
+  <li>Cover letter (research interests, experience, career goals)</li>
+  <li>Curriculum vitae (with publications)</li>
+  <li>Names and contact information of three references</li>
+</ol>
 </p>
   </div>
 

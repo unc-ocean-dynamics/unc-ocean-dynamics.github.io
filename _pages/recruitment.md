@@ -43,7 +43,6 @@ permalink: /recruitment/
   <li>Curriculum vitae (with publications)</li>
   <li>Names and contact information of three references</li>
 </ol>
-</p>
   </div>
 
   <h2>Undergraduate Research Opportunities</h2>

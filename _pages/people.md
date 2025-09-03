@@ -8,7 +8,7 @@ permalink: /people/
 <h2>Principal Investigator</h2>
 
 <div style="overflow: hidden; margin-bottom: 2em;">
-  <img src="../assets/images/Zhao_profile2.png" alt="Ken Zhao" style="float: left; max-width: 180px; margin-right: 20px; border-radius: 4px;">
+  <img src="../assets/images/zhao_portrait25.jpg" alt="Ken Zhao" style="float: left; max-width: 180px; margin-right: 20px; border-radius: 4px;">
   <p>
     <strong>Ken Zhao</strong><br>
     Assistant Professor, University of North Carolina at Chapel Hill

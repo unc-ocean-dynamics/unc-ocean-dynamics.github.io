@@ -21,7 +21,7 @@ permalink: /recruitment/
 
   <h2>Postdoctoral Research Scholar</h2>
   <div class="ad-block">
-    <h3>There are currently no open postdoctoral positions. However, prospective scholars are encouraged to contact Ken (<a href="mailto:kenzhao@unc.edu">kenzhao@unc.edu</a>) to discuss potential collaborations or fellowship proposals. </h3>
+    <h3>There are currently no open postdoctoral positions. However, prospective scholars are encouraged to contact Ken to discuss potential collaborations or fellowship proposals. </h3>
       </div>
   <!--
   <div class="ad-block">

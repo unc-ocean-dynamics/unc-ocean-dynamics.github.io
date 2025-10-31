@@ -14,8 +14,8 @@ permalink: /people/
     Assistant Professor, University of North Carolina at Chapel Hill
   </p>
   <p>
-    Ken leads the Carolina Dynamical Oceanography Group. His research focuses on the physical dynamics of polar oceans, coastal circulation, and geophysical fluid dynamics. Ken is currently a committee member of the international 
-    <a href="https://sites.google.com/view/jcioi/home" target="_blank">Joint Commission on Ice Ocean Interactions</a>.
+    Ken leads the Carolina Dynamical Oceanography Group. His research focuses on the physical dynamics of polar oceans, coastal circulation, and geophysical fluid dynamics. Ken is currently vice-chair of the international 
+    <a href="https://sites.google.com/view/jcioi/home" target="_blank">Joint Commission on Ice Ocean Interactions (IUGG IAPSO)</a>.
   </p>
 </div>
 

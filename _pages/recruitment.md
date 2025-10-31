@@ -7,7 +7,7 @@ permalink: /recruitment/
 
   <h2>Graduate Student Opportunities</h2>
   <div class="ad-block">
-    <p>The Carolina Dynamical Oceanography Lab at UNC-Chapel Hill is recruiting graduate students (<strong>Ph.D. preferred, M.S. considered</strong>) to begin in Fall 2026. Students may pursue research in one of two areas:</p>
+    <p>The Carolina Dynamical Oceanography Lab at UNC-Chapel Hill is recruiting graduate students (<strong>Ph.D. preferred</strong>) to begin in Fall 2026. Students may pursue research in one of two areas:</p>
     <ul>
       <li><strong>Polar Ocean Dynamics:</strong> Investigating ice-ocean boundary layers with multi-scale numerical simulations and laboratory experiments, with applications to melting glaciers and sea level rise.</li>
       <li><strong>Coastal Ocean Dynamics:</strong> Using high-resolution models (e.g., ROMS) guided by observations to study cross-shelf exchange, submesoscale processes, and Gulf Stream-continental shelf interactions.</li>

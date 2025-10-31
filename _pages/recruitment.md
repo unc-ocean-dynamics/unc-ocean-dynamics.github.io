@@ -18,8 +18,12 @@ permalink: /recruitment/
     <p>Please email Ken (<a href="mailto:kenzhao@unc.edu">kenzhao@unc.edu</a>) to express interest as soon as possible.</p>
   </div>
 
-<!--
+
   <h2>Postdoctoral Research Scholar</h2>
+  <div class="ad-block">
+    <h3>There are currently no open postdoctoral positions. However, prospective scholars are encouraged to contact Ken (<a href="mailto:kenzhao@unc.edu">kenzhao@unc.edu</a>) to discuss potential collaborations or fellowship proposals. </h3>
+      </div>
+  <!--
   <div class="ad-block">
     <h3>Small-Scale Ice-Ocean Interactions</h3>
     <p><strong>Job Description:</strong> The Carolina Dynamical Oceanography Lab at UNC-Chapel Hill invites applications for a Postdoctoral Research Scholar to investigate the physics of ice-ocean boundary layers using numerical simulations and laboratory experiments.</p>

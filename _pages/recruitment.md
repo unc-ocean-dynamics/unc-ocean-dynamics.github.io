@@ -23,7 +23,7 @@ permalink: /recruitment/
   <div class="ad-block">
     <h3>There are currently no open postdoctoral positions. However, prospective scholars are encouraged to contact Ken to discuss potential collaborations or fellowship proposals. </h3>
       </div>
-  <!--
+ {% comment %}
   <div class="ad-block">
     <h3>Small-Scale Ice-Ocean Interactions</h3>
     <p><strong>Job Description:</strong> The Carolina Dynamical Oceanography Lab at UNC-Chapel Hill invites applications for a Postdoctoral Research Scholar to investigate the physics of ice-ocean boundary layers using numerical simulations and laboratory experiments.</p>
@@ -49,7 +49,7 @@ permalink: /recruitment/
   <li>Names and contact information of three references</li>
 </ol>
   </div>
--->
+{% endcomment %}
 
   <h2>Undergraduate Research Opportunities</h2>
   <div class="ad-block">

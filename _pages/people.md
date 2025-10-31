@@ -15,7 +15,7 @@ permalink: /people/
   </p>
   <p>
     Ken leads the Carolina Dynamical Oceanography Group. His research focuses on the physical dynamics of polar oceans, coastal circulation, and geophysical fluid dynamics. Ken is currently vice-chair of the international 
-    <a href="https://sites.google.com/view/jcioi/home" target="_blank">Joint Commission on Ice Ocean Interactions (IUGG IAPSO)</a>.
+    <a href="https://sites.google.com/view/jcioi/home" target="_blank">Joint Commission on Ice Ocean Interactions</a> (IUGG IAPSO).
   </p>
 </div>
 

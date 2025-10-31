@@ -18,6 +18,7 @@ permalink: /recruitment/
     <p>Please email Ken (<a href="mailto:kenzhao@unc.edu">kenzhao@unc.edu</a>) to express interest as soon as possible.</p>
   </div>
 
+<!--
   <h2>Postdoctoral Research Scholar</h2>
   <div class="ad-block">
     <h3>Small-Scale Ice-Ocean Interactions</h3>
@@ -44,6 +45,7 @@ permalink: /recruitment/
   <li>Names and contact information of three references</li>
 </ol>
   </div>
+-->
 
   <h2>Undergraduate Research Opportunities</h2>
   <div class="ad-block">

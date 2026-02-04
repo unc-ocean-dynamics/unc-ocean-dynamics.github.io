@@ -24,9 +24,27 @@ permalink: /people/
 <h2>Current Group Members</h2>
 
 <div class="person-block">
-  <h3>Victor Hieu Nguyen</h3>
+  <h3>Tyler Britt</h3>
+  <p><strong>Postbac Researcher, UNC Chapel Hill (Aug 2025 – present)</strong></p>
+  <p><strong>Project:</strong> <em>Seawater-Ice Laboratory Experiments</em></p>
+</div>
+
+<div class="person-block">
+  <h3>Victor Nguyen</h3>
   <p><strong>Undergraduate Researcher, UNC Chapel Hill (June 2025 – present)</strong></p>
   <p><strong>Project:</strong> <em>Dynamics of Carolina's shoals</em></p>
+</div>
+
+<div class="person-block">
+  <h3>Krit Negi</h3>
+  <p><strong>Undergraduate Researcher, UNC Chapel Hill (Aug 2025 – present)</strong></p>
+  <p><strong>Project:</strong> <em>Lagrangian floats in polar and coastal systems</em></p>
+</div>
+
+<div class="person-block">
+  <h3>Mason Redd</h3>
+  <p><strong>Undergraduate Researcher, UNC Chapel Hill (Jan 2026 – present)</strong></p>
+  <p><strong>Project:</strong> <em>Upwelling in the Galapagos</em></p>
 </div>
 
 <div class="person-block">

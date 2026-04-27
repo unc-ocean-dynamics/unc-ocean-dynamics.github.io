@@ -20,7 +20,7 @@ title                    : "Carolina Dynamical Oceanography Group"
 title_separator          : "-"
 name                     : "Carolina Dynamical Oceanography Group"
 description              : "We study polar and coastal oceanography across scales."  # ← updated
-url                      : "https://unc-ocean-dynamics.github.io"
+url                      : "https://oceans.unc.edu"
 baseurl                  : ""
 repository               : "unc-ocean-dynamics/unc-ocean-dynamics.github.io"
 masthead_title           : "Home"

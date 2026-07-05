@@ -29,7 +29,7 @@ permalink: /people/
 <div class="person-block" style="overflow: hidden; margin-bottom: 2em;">
   <img src="/assets/images/CDOG2.png" alt="Placeholder portrait for Madie Mamer" style="float: left; max-width: 120px; margin-right: 20px; border-radius: 4px;">
   <p><strong>Madie Mamer</strong><br>
-  Postdoctoral Research Scholar, UNC Chapel Hill</p>
+  Postdoctoral Research Scholar, UNC Chapel Hill (Jul 2026 – present)</p>
   <p><strong>Project:</strong> <em>Ice-ocean interactions using modeling and laboratory experiments</em></p>
 </div>
 
@@ -38,7 +38,7 @@ permalink: /people/
 <div class="person-block" style="overflow: hidden; margin-bottom: 2em;">
   <img src="/assets/images/CDOG2.png" alt="Placeholder portrait for Yiwen Hu" style="float: left; max-width: 120px; margin-right: 20px; border-radius: 4px;">
   <p><strong>Yiwen Hu</strong><br>
-  Graduate Student, UNC Chapel Hill</p>
+  Graduate Student, UNC Chapel Hill (Jun 2026 – present)</p>
   <p><strong>Project:</strong> <em>Ice-ocean interactions using modeling and laboratory experiments</em></p>
 </div>
 

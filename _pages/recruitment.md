@@ -8,14 +8,14 @@ permalink: /recruitment/
 
   <h2>Graduate Student Opportunities</h2>
   <div class="ad-block">
-    <p>The Carolina Dynamical Oceanography Lab at UNC-Chapel Hill is recruiting graduate students (<strong>Ph.D. preferred</strong>) to begin in Fall 2026. Students may pursue research in one of two areas:</p>
+    <p>The Carolina Dynamical Oceanography Lab at UNC-Chapel Hill is recruiting graduate students (<strong>Ph.D. preferred</strong>) to begin in Fall 2027. Students may pursue research in one of two areas:</p>
     <ul>
       <li><strong>Polar Ocean Dynamics:</strong> Investigating ice-ocean boundary layers with multi-scale numerical simulations and laboratory experiments, with applications to melting glaciers and sea level rise.</li>
       <li><strong>Coastal Ocean Dynamics:</strong> Using high-resolution models (e.g., ROMS) guided by observations to study cross-shelf exchange, submesoscale processes, and Gulf Stream-continental shelf interactions.</li>
     </ul>
     <p>Applicants should have a background in oceanography, physics, mathematics, engineering, or a related field, and experience with scientific computing. Prior research in fluid dynamics or numerical modeling is helpful but not required.</p>
     <p>For applications, see: <a href="https://emes.unc.edu/graduate-program/application-procedures/" target="_blank">UNC EMES Graduate Program Application Procedures</a><br>
-    <strong>Deadline:</strong> Dec 16th, 2025</p>
+    <strong>Deadline:</strong> Dec. 16 2026</p>
     <p>Please email Ken (<a href="mailto:kenzhao@unc.edu">kenzhao@unc.edu</a>) to express interest as soon as possible.</p>
   </div>
 

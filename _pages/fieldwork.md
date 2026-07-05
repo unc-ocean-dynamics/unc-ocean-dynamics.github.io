@@ -11,6 +11,18 @@ Photos from recent fieldwork are included below.
 
 ---------------------
 
+### South Atlantic Bight and Gulf Stream (June 2026)
+
+PhD seagoing training cruise for new ocean observers.
+
+<img src="/assets/images/Group26GS.jpeg" alt="Group photo of the seagoing training cruise team aboard the research vessel in the South Atlantic Bight, June 2026" width="1000">
+
+<img src="/assets/images/NCdrifter.jpeg" alt="Instrumented surface drifter decorated with a North Carolina redfish, ready for deployment during the June 2026 Gulf Stream cruise" width="450">
+
+### Greenland (July 2024)
+
+Overturning in the subpolar North Atlantic.
+
 ### LeConte Glacier, Alaska (June 2022)
 
 Field work within an Alaskan fjord measuring the ice-ocean boundary layer near icebergs.

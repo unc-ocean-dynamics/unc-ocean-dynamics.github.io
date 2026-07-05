@@ -24,45 +24,55 @@ permalink: /people/
 
 <h2>Current Group Members</h2>
 
-<div class="person-block">
-  <h3>Madie Mamer</h3>
-  <p><strong>Postdoctoral Research Scholar, UNC Chapel Hill</strong></p>
-  <p><strong>Project:</strong> <em>Ice-ocean interactions modeling and numerical physics</em></p>
+<h3>Postdoctoral Researchers</h3>
+
+<div class="person-block" style="overflow: hidden; margin-bottom: 2em;">
+  <img src="/assets/images/CDOG2.png" alt="Placeholder portrait for Madie Mamer" style="float: left; max-width: 120px; margin-right: 20px; border-radius: 4px;">
+  <p><strong>Madie Mamer</strong><br>
+  Postdoctoral Research Scholar, UNC Chapel Hill</p>
+  <p><strong>Project:</strong> <em>Ice-ocean interactions using modeling and laboratory experiments</em></p>
 </div>
 
-<div class="person-block">
-  <h3>Yiwen Hu</h3>
-  <p><strong>Graduate Student, UNC Chapel Hill</strong></p>
-  <p><strong>Project:</strong> <em>Ice-ocean interactions modeling and numerical physics</em></p>
+<h3>Graduate Students</h3>
+
+<div class="person-block" style="overflow: hidden; margin-bottom: 2em;">
+  <img src="/assets/images/CDOG2.png" alt="Placeholder portrait for Yiwen Hu" style="float: left; max-width: 120px; margin-right: 20px; border-radius: 4px;">
+  <p><strong>Yiwen Hu</strong><br>
+  Graduate Student, UNC Chapel Hill</p>
+  <p><strong>Project:</strong> <em>Ice-ocean interactions using modeling and laboratory experiments</em></p>
 </div>
 
+<h3>Postbaccalaureate Researchers</h3>
+
 <div class="person-block">
-  <h3>Tyler Britt</h3>
+  <h4>Tyler Britt</h4>
   <p><strong>Postbac Researcher, UNC Chapel Hill (Aug 2025 – present)</strong></p>
   <p><strong>Project:</strong> <em>Seawater-Ice Laboratory Experiments</em></p>
 </div>
 
+<h3>Undergraduate Researchers</h3>
+
 <div class="person-block">
-  <h3>Victor Nguyen</h3>
-  <p><strong>Undergraduate Researcher, UNC Chapel Hill (June 2025 – present)</strong></p>
+  <h4>Victor Nguyen</h4>
+  <p><strong>UNC Chapel Hill (June 2025 – present)</strong></p>
   <p><strong>Project:</strong> <em>Dynamics of Carolina's shoals</em></p>
 </div>
 
 <div class="person-block">
-  <h3>Krit Negi</h3>
-  <p><strong>Undergraduate Researcher, UNC Chapel Hill (Aug 2025 – present)</strong></p>
+  <h4>Krit Negi</h4>
+  <p><strong>UNC Chapel Hill (Aug 2025 – present)</strong></p>
   <p><strong>Project:</strong> <em>Lagrangian floats in polar and coastal systems</em></p>
 </div>
 
 <div class="person-block">
-  <h3>Mason Redd</h3>
-  <p><strong>Undergraduate Researcher, UNC Chapel Hill (Jan 2026 – present)</strong></p>
+  <h4>Mason Redd</h4>
+  <p><strong>UNC Chapel Hill (Jan 2026 – present)</strong></p>
   <p><strong>Project:</strong> <em>Upwelling in the Galapagos</em></p>
 </div>
 
 <div class="person-block">
-  <h3>Sarah Villhauer</h3>
-  <p><strong>Undergraduate Researcher, UCLA & REU student at Oregon State University (June 2022 – present)</strong></p>
+  <h4>Sarah Villhauer</h4>
+  <p><strong>UCLA &amp; REU student at Oregon State University (June 2022 – present)</strong></p>
   <p><strong>Project:</strong> <em>Dynamics of Antarctica’s melting basal channels</em></p>
 </div>
 

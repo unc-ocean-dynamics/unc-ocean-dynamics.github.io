@@ -1,5 +1,6 @@
 ---
 title: Research
+description: "Research themes spanning ice-ocean boundary layers, glacial fjord circulation, ice-shelf cavities, polar eddies, and Carolina coastal-shelf dynamics."
 header:
   image: /assets/images/Banner.png
 permalink: /research/

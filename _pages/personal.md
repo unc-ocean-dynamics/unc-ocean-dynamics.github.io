@@ -1,5 +1,6 @@
 ---
 title: Outreach and Engagement
+description: "Science communication, mentoring, and K-12 education efforts from the Carolina Dynamical Oceanography Group."
 header:
   image: /assets/images/Banner.png
 permalink: /outreach/

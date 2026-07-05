@@ -1,5 +1,6 @@
 ---
 title: People
+description: "Meet the Carolina Dynamical Oceanography Group: principal investigator Ken Zhao and current and former researchers at UNC Chapel Hill."
 header:
   image: /assets/images/Banner.png
 permalink: /people/

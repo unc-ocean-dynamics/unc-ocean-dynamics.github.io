@@ -1,5 +1,6 @@
 ---
 title: Field work
+description: "Photos and notes from Zhao group ocean fieldwork, including ice-ocean boundary layer campaigns at LeConte Glacier, Alaska."
 permalink: /fieldwork/
 header:
   image: /assets/images/Banner.png

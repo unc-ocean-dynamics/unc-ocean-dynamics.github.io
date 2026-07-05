@@ -1,5 +1,6 @@
 ---
 title: Movies
+description: "Animations of ocean simulations from the Zhao group: glacial fjord circulation, standing eddies, and coastal shelf dynamics."
 header:
   image: /assets/images/Banner.png
 permalink: /movies/

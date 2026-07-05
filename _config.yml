@@ -97,9 +97,9 @@ analytics:
 
 # Author information
 author:
-#  name             : "Ken X. Zhao"
+  name             : "Ken Zhao"
   avatar           : "assets/images/CDOG2.png"
-  bio              : "<br>"
+  bio              : "Physical oceanographer studying polar &amp; coastal dynamics at UNC Chapel Hill."
   location         : "Chapel Hill, NC"
   email            : #"kenzhao@unc.edu"
   links:
@@ -294,5 +294,3 @@ defaults:
       comments: false
       share: false
       related: false
-
-theme: jekyll-theme-slate

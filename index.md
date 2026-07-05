@@ -1,5 +1,6 @@
 ---
 title: Carolina Dynamical Oceanography Group
+description: "Polar and coastal ocean dynamics research group led by Ken Zhao at UNC Chapel Hill, studying ice-ocean interactions, glacial fjords, and coastal circulation."
 header:
   image: /assets/images/Banner.png  # keep or replace with a group/field image later
 layout: single

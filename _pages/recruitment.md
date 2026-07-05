@@ -1,5 +1,6 @@
 ---
 title: The Carolina Dynamical Oceanography Lab at UNC Chapel Hill is recruiting!
+description: "Open PhD, postdoc, and undergraduate research positions in polar and coastal oceanography at UNC Chapel Hill."
 header:
   image: /assets/images/Banner.png
 permalink: /recruitment/

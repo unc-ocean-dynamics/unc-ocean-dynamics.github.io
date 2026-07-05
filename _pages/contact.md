@@ -1,5 +1,6 @@
 ---
 title: Contact information
+description: "Contact the Carolina Dynamical Oceanography Group and PI Ken Zhao at UNC Chapel Hill."
 header:
   image: /assets/images/vortart/banner_vorticity.png
 permalink: /contact/

@@ -23,8 +23,6 @@ At vertical boundaries between the ocean and ice — glacier faces and icebergs 
 
 Representative work: *Zhao, Chor, Skyllingstad, Nash et al. (2026, JFM, under review)*; *Zhao, Skyllingstad &amp; Nash (2024, GRL)*; and field/observational collaborations at LeConte, including *Nash et al. (2024, GRL)*, *Weiss et al. (2025, GRL)*, *Ovall et al. (2025, JGR-Oceans)*, and *Cohen et al. (2025, J. Glaciology)*.
 
-![Melt rate as a function of background temperature, slope angle, and external velocity from improved boundary-layer parameterizations](/assets/images/melt_rate_parameterization.png)
-
 ---
 
 ## 2. Glacial Fjord Circulation &amp; Fjord-Shelf Exchange

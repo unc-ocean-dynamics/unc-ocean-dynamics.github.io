@@ -15,13 +15,15 @@ Photos from recent fieldwork are included below.
 
 PhD seagoing training cruise for new ocean observers.
 
-<img src="/assets/images/Group26GS.jpeg" alt="Group photo of the seagoing training cruise team aboard the research vessel in the South Atlantic Bight, June 2026" width="1000">
+<img src="/assets/images/Group26GS.jpeg" alt="Group photo of the seagoing training cruise team aboard the research vessel in the South Atlantic Bight, June 2026" width="500">
 
 <img src="/assets/images/NCdrifter.jpeg" alt="Instrumented surface drifter decorated with a North Carolina redfish, ready for deployment during the June 2026 Gulf Stream cruise" width="450">
 
 ### Greenland (July 2024)
 
-Overturning in the subpolar North Atlantic.
+As part of OSNAP (Overturning in the Subpolar North Atlantic Program), we joined the R/V Neil Armstrong cruise AR84-02 (July–August 2024) out of Reykjavík to recover and redeploy the moorings that measure the overturning circulation across the subpolar North Atlantic near Cape Farewell, Greenland.
+
+<img src="/assets/images/osnap_armstrong.JPG" alt="The R/V Neil Armstrong during the OSNAP AR84-02 cruise in the subpolar North Atlantic, July 2024" width="500"> <img src="/assets/images/osnap_portrait.jpg" alt="Working aboard the R/V Neil Armstrong during the OSNAP AR84-02 cruise, July 2024" width="500">
 
 ### LeConte Glacier, Alaska (June 2022)
 

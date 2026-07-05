@@ -44,9 +44,10 @@ permalink: /people/
 
 <h3>Postbaccalaureate Researchers</h3>
 
-<div class="person-block">
-  <h4>Tyler Britt</h4>
-  <p><strong>Postbac Researcher, UNC Chapel Hill (Aug 2025 – present)</strong></p>
+<div class="person-block" style="overflow: hidden; margin-bottom: 2em;">
+  <img src="/assets/images/CDOG2.png" alt="Placeholder portrait for Tyler Britt" style="float: left; max-width: 120px; margin-right: 20px; border-radius: 4px;">
+  <p><strong>Tyler Britt</strong><br>
+  Postbac Researcher, UNC Chapel Hill (Aug 2025 – present)</p>
   <p><strong>Project:</strong> <em>Seawater-Ice Laboratory Experiments</em></p>
 </div>
 

@@ -36,9 +36,11 @@ If you are interested in ocean physics, polar regions, or geophysical fluid dyna
 
 <!-- Add newest items at the top. Keep it short — a few recent highlights. -->
 
-- **2026** — The group welcomes **Madie Mamer** (postdoctoral scholar) and **Yiwen Hu** (graduate student).
-- **2026** — We are recruiting graduate, postdoctoral, and undergraduate researchers — see the [recruitment page](/recruitment/).
-- **2026** — New preprint: *Direct Numerical Simulations of Ice-Ocean Boundary Turbulence* (Zhao et al., under review at JFM).
+- **July 2026** — The group welcomes **Madie Mamer** (postdoctoral scholar) and **Yiwen Hu** (graduate student).
+- **July 2026** — We are recruiting graduate, postdoctoral, and undergraduate researchers; see the [recruitment page](/recruitment/).
+- **June 2026** — Physical oceanography graduate student training cruise in the South Atlantic Bight and Gulf Stream (see [Field Work](/fieldwork/)).
+- **April 2026** — New preprint: *Direct Numerical Simulations of Ice-Ocean Boundary Turbulence* (Zhao et al., under review at JFM).
+- **July 2025** — The Carolina Dynamical Oceanography Group is established.
 
 ---
 

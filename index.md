@@ -32,4 +32,14 @@ If you are interested in ocean physics, polar regions, or geophysical fluid dyna
 
 ---
 
+### News
+
+<!-- Add newest items at the top. Keep it short — a few recent highlights. -->
+
+- **2026** — The group welcomes **Madie Mamer** (postdoctoral scholar) and **Yiwen Hu** (graduate student).
+- **2026** — We are recruiting graduate, postdoctoral, and undergraduate researchers — see the [recruitment page](/recruitment/).
+- **2026** — New preprint: *Direct Numerical Simulations of Ice-Ocean Boundary Turbulence* (Zhao et al., under review at JFM).
+
+---
+
 Stay tuned for updates on our research, people, and publications.

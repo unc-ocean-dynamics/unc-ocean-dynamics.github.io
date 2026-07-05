@@ -2,4 +2,44 @@
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
+<!-- Structured data: research group + principal investigator -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ResearchOrganization",
+      "@id": "https://oceans.unc.edu/#organization",
+      "name": "Carolina Dynamical Oceanography Group",
+      "url": "https://oceans.unc.edu/",
+      "description": "Polar and coastal ocean dynamics research group at the University of North Carolina at Chapel Hill.",
+      "parentOrganization": {
+        "@type": "CollegeOrUniversity",
+        "name": "University of North Carolina at Chapel Hill"
+      },
+      "member": {
+        "@type": "Person",
+        "@id": "https://oceans.unc.edu/#ken-zhao"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://oceans.unc.edu/#ken-zhao",
+      "name": "Ken Zhao",
+      "jobTitle": "Assistant Professor",
+      "affiliation": {
+        "@type": "CollegeOrUniversity",
+        "name": "University of North Carolina at Chapel Hill"
+      },
+      "email": "mailto:kenzhao@unc.edu",
+      "url": "https://oceans.unc.edu/people/",
+      "sameAs": [
+        "https://scholar.google.com/citations?user=ntxj5R4AAAAJ&hl=en",
+        "https://www.researchgate.net/profile/Ken_Zhao7"
+      ]
+    }
+  ]
+}
+</script>
+
 <!-- end custom head snippets -->

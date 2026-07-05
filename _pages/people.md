@@ -25,6 +25,18 @@ permalink: /people/
 <h2>Current Group Members</h2>
 
 <div class="person-block">
+  <h3>Madie Mamer</h3>
+  <p><strong>Postdoctoral Research Scholar, UNC Chapel Hill</strong></p>
+  <p><strong>Project:</strong> <em>Ice-ocean interactions modeling and numerical physics</em></p>
+</div>
+
+<div class="person-block">
+  <h3>Yiwen Hu</h3>
+  <p><strong>Graduate Student, UNC Chapel Hill</strong></p>
+  <p><strong>Project:</strong> <em>Ice-ocean interactions modeling and numerical physics</em></p>
+</div>
+
+<div class="person-block">
   <h3>Tyler Britt</h3>
   <p><strong>Postbac Researcher, UNC Chapel Hill (Aug 2025 – present)</strong></p>
   <p><strong>Project:</strong> <em>Seawater-Ice Laboratory Experiments</em></p>

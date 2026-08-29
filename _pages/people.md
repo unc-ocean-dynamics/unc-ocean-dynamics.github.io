@@ -53,8 +53,7 @@ permalink: /people/
   <p><strong>Tyler Britt</strong><br>
   Postbac Researcher, UNC Chapel Hill (Aug 2025 – present)</p>
   <p><strong>Project:</strong> <em>Seawater-Ice Laboratory Experiments</em></p>
-  <p>B.S. in Physics; UNC Soccer alum and Head Coach of UNC Club Soccer.</p>
-  <p><strong>Hobbies:</strong> Soccer, hiking, movies, and lifting.</p>
+  <p><strong>Hobbies:</strong> Soccer (UNC soccer alum and head coach of UNC Club Soccer), hiking, movies, and lifting.</p>
 </div>
 
 <h3>Undergraduate Researchers</h3>
@@ -88,7 +87,7 @@ permalink: /people/
   <p><strong>Mason Redd</strong><br>
   Undergraduate Researcher, UNC Chapel Hill (Jan 2026 – present)</p>
   <p><strong>Project:</strong> <em>Upwelling in the Galapagos</em></p>
-  <p><strong>Hobbies:</strong> Ballroom dancing (two years at UNC!), reading, and staying active at the gym. Academic interests span particle physics, oceanography, and nuclear physics (BSM).</p>
+  <p><strong>Hobbies:</strong> Ballroom dancing (two years at UNC!), reading, and staying active at the gym.</p>
 </div>
 
 <div class="person-block" style="overflow: hidden; margin-bottom: 2em;">
